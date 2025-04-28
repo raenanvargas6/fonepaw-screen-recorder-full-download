@@ -7,12 +7,12 @@
 <a href="https://app.mediafire.com/t8zrgyorywwai?fonewpawscreenreocrderfull"><img src="https://img.shields.io/badge/Click_To_Download-blue?style=for-the-badge&logo=github" height="70"></a></div>
 
 
-## FonePaw Screen Recorder Overview
+## 👁‍🗨FonePaw Screen Recorder Overview
 - In today's fast-paced digital world, the ability to capture and share our experiences seamlessly has become an essential part of our lives. Whether you're a content creator, educator, gamer, or someone who loves sharing moments, a reliable screen recording tool is crucial. Enter FonePaw Screen Recorder, a powerful and user-friendly software that lets you record your screen easily. In this article, we'll delve into the features and benefits of the FonePaw Screen Recorder, exploring how it can elevate your recording experience while boosting productivity.
 
 
 
-## Features of FonePaw Screen Recorder
+## ⚙️Features of FonePaw Screen Recorder
 
 1. Intuitive User Interface: FonePaw Screen Recorder welcomes users with its clean and intuitive interface. Navigating the software is a breeze whether you're a tech-savvy individual or a beginner. The user-friendly layout ensures that you can start recording your screen, webcam, or audio effortlessly, making it an ideal choice for those new to screen recording.
 
@@ -30,7 +30,7 @@
 
 
 
-## System Requirements and Technical Details
+## ⚒️System Requirements and Technical Details
 
 - Supported OS: Windows 11, Windows 10, Windows 8.1, Windows 7
 - RAM (Memory): 2 GB RAM (4 GB recommended)
